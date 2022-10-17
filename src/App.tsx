@@ -1,24 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <article>Magna laboris ipsum incididunt voluptate reprehenderit anim occaecat deserunt aute elit sit nisi. Ipsum labore commodo qui aute qui qui excepteur excepteur ad reprehenderit officia. Voluptate deserunt commodo irure in eiusmod incididunt. Qui fugiat cillum qui irure occaecat. Officia labore ea aliquip est.</article>
+      <article>Magna laboris ipsum incididunt voluptate reprehenderit anim occaecat deserunt aute elit sit nisi. Ipsum labore commodo qui aute qui qui excepteur excepteur ad reprehenderit officia. Voluptate deserunt commodo irure in eiusmod incididunt. Qui fugiat cillum qui irure occaecat. Officia labore ea aliquip est.</article>
+      <article>Magna laboris ipsum incididunt voluptate reprehenderit anim occaecat deserunt aute elit sit nisi. Ipsum labore commodo qui aute qui qui excepteur excepteur ad reprehenderit officia. Voluptate deserunt commodo irure in eiusmod incididunt. Qui fugiat cillum qui irure occaecat. Officia labore ea aliquip est.</article>
+      <article>Magna laboris ipsum incididunt voluptate reprehenderit anim occaecat deserunt aute elit sit nisi. Ipsum labore commodo qui aute qui qui excepteur excepteur ad reprehenderit officia. Voluptate deserunt commodo irure in eiusmod incididunt. Qui fugiat cillum qui irure occaecat. Officia labore ea aliquip est.</article>
+      <article>Magna laboris ipsum incididunt voluptate reprehenderit anim occaecat deserunt aute elit sit nisi. Ipsum labore commodo qui aute qui qui excepteur excepteur ad reprehenderit officia. Voluptate deserunt commodo irure in eiusmod incididunt. Qui fugiat cillum qui irure occaecat. Officia labore ea aliquip est.</article>
+      <article>Magna laboris ipsum incididunt voluptate reprehenderit anim occaecat deserunt aute elit sit nisi. Ipsum labore commodo qui aute qui qui excepteur excepteur ad reprehenderit officia. Voluptate deserunt commodo irure in eiusmod incididunt. Qui fugiat cillum qui irure occaecat. Officia labore ea aliquip est.</article>
     </div>
   );
 }
